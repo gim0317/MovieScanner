@@ -28,9 +28,7 @@ Add screenshots/GIFs under `/screenshots` and update the paths below.
   <img src="screenshots/profile.png" width="240" alt="Profile"/>
 </p>
 
-> Note: Screenshots can be added later—this section is optional but strongly recommended.
 
----
 
 ## Features
 
