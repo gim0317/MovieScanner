@@ -110,5 +110,5 @@ Add screenshots/GIFs under `/screenshots` and update the paths below.
 ### Installation
 1. Clone the repository
    ```bash
-   git clone https://github.com/<gim0317>/MovieScanner.git
+   git clone https://github.com/gim0317/MovieScanner.git
    cd MovieScanner
